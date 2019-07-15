@@ -2,7 +2,7 @@
 title: Over the rainbow / what a wonderful world
 artist: Israël Kamakawiwo'ole
 year: 1989
-songwriters: 	Harold Arlen, Bob Thiele
+songwriters: Harold Arlen, Bob Thiele
 lesson: https://www.youtube.com/watch?v=1PiscVZSuEE
 ---
 
