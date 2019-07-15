@@ -2,7 +2,7 @@
 title: House of the rising sun
 artist: The Animals
 year: 1964
-songwriters: Harold Arlen, Bob Thiele
+songwriters: 
 lesson: https://www.youtube.com/watch?v=CYgbNChIy8U
 ---
 
