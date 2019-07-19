@@ -1,0 +1,98 @@
+---
+title: On a white sandy beach
+artist: Israël Kamakawiwo'ole
+year: 1989
+lesson: https://www.youtube.com/watch?v=1PiscVZSuEE
+---
+
+empty frets
+A |---|---|---|---|---
+E |---|---|---|---|---
+C |---|---|---|---|---
+G |---|---|---|---|---
+
+F
+A |---|---|---|---|---
+E |-1-|---|---|---|---
+C |---|---|---|---|---
+G |---|-2-|---|---|---
+
+Bb
+A |-1-|---|---|---|---
+E |-1-|---|---|---|---
+C |-1-|-2-|---|---|---
+G |-1-|---|-3-|---|---
+
+Bbm7
+A |-1-|---|---|---|---
+E |-1-|---|---|---|---
+C |-1-|---|---|---|---
+G |-1-|---|---|---|---
+
+
+(strumming)
+↓ ↓↑ ↓↑↓
+
+(instrumental)
+0
+
+(intro)
+F Bb Bbm7 F C7
+
+(picking)
+    F
+A |-3-3-0-----0---0-----0---3-3-0-----0---0-----0-
+E |---------1---3-----1-------------1---3-----1---
+C |-----0-0---------0-----------0-0---------0-----
+G |-----------------------------------------------
+        Bb          Bbm7    F             C
+A |---0-------1---0-------1-------------1-------3-
+E |-3---1---1---3---1---1---3-1-3-----0-----0-----
+C |-----2-2---------1-1-------------3-----0---0---
+G |-----------------------------------------------
+
+
+(verse)
+  F                            F
+I saw you in my dream, we were walking hand in hand
+
+     Bb           Bbm         F    C7
+On a white sandy beach of Hawai'i
+
+F                                   F
+We were playing in the sun, we were having so much fun
+
+     Bb          Bbm         F   
+On a white sandy beach, of Hawai'i
+
+(chorus)
+C7                  Bb                  C7
+Sound of the ocean, soothes my restless soul
+
+C7                  C7
+Sound of the ocean, rocks me all night long
+
+(verse)
+F                           F     
+Those hot long summer days, lying there in the sun
+
+     Bb          Bbm         F 
+On a white sandy beach, of Hawai'i
+
+(chorus)
+C7                  Bb                  C7
+Sound of the ocean, soothes my restless soul
+
+C7                  C7
+Sound of the ocean, rocks me all night long
+
+F                         F
+Last night in my dream, I saw your face again
+
+        Bb           Bbm            Bbm7                    F
+We were there in the sun, ...  On a white sandy beach, of Hawai'i
+
+     Bb          Bbm         F 
+On a white sandy beach, o-ho-of ... of Hawai'i
+
+(picking)
